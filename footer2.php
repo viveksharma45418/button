@@ -141,7 +141,7 @@ if ($show_footer_checkbox) {
               
               <?php
               /* translators: 1: Theme name, 2: Theme author. */
-             // printf(esc_html__('%1$s by %2$s.', 'covernews'), '<a href="https://afthemes.com/products/covernews/">CoverNews</a>', 'AF themes');
+         printf(esc_html__('%1$s by %2$s.', 'covernews'), '<a href="https://afthemes.com/products/covernews/">CoverNews</a>', 'AF themes');
               ?>
             <?php endif; ?>
           </div>
